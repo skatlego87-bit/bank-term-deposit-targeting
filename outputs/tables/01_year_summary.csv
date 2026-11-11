@@ -1,0 +1,4 @@
+year,contacts,subscribers,rate,mean_euribor,mean_campaign,share_previously_contacted,share_prev_success,share_cellular,mean_age,share_retired_or_student,rate_ci_low,rate_ci_high
+2008,27690,1339,0.0484,4.8171,2.7993,0.0013,0.0013,0.5047,40.1951,0.0357,0.0459,0.0509
+2009,11440,2228,0.1948,1.232,2.1259,0.066,0.0603,0.9177,39.2638,0.0982,0.1876,0.2021
+2010,2058,1073,0.5214,0.8131,1.9052,0.3523,0.3149,0.8115,41.9495,0.2347,0.4998,0.5429

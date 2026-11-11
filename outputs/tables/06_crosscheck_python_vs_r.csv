@@ -1,0 +1,14 @@
+check,max_abs_diff,n_values,agrees_to_1e-4
+year summary: contacts,0.0,3,True
+year summary: subscribers,0.0,3,True
+year summary: rate,4.475524475530679e-05,3,True
+hazard: at_risk,0.0,40,True
+hazard: successes,0.0,40,True
+hazard: hazard,4.916584887150119e-05,40,True
+hazard: ci_low,4.9825527191699887e-05,40,True
+hazard: ci_high,4.9054706029838524e-05,40,True
+logit: coef_naive,4.623889367505463e-06,36,True
+logit: coef_adjusted,4.976388832123035e-06,36,True
+logit: or_naive,4.868594152385164e-06,36,True
+logit: or_adjusted,4.801658372244333e-06,36,True
+T2 unpenalised logit AUC,4.935874085010283e-07,2,True

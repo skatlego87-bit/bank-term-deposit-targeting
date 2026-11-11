@@ -1,0 +1,71 @@
+{
+  "rows": 41188,
+  "cols": 21,
+  "missing_cells": 0,
+  "subscription_rate": 0.11265417111780131,
+  "duplicate_rows": 12,
+  "unknown_counts": {
+    "job": 330,
+    "marital": 80,
+    "education": 1731,
+    "default": 8597,
+    "housing": 990,
+    "loan": 990
+  },
+  "n_periods": 26,
+  "n_month_signatures": 26,
+  "signature_to_period_is_one_to_one": true,
+  "periods_with_more_than_one_nr_employed": 0,
+  "euribor_mean_2008_05": 4.85766301687492,
+  "euribor_mean_2009_12": 0.7125232558139534,
+  "euribor_mean_2010_11": 1.0422265625,
+  "year_summary": [
+    {
+      "year": 2008,
+      "contacts": 27690,
+      "subscribers": 1339,
+      "rate": 0.0484,
+      "mean_euribor": 4.8171,
+      "mean_campaign": 2.7993,
+      "share_previously_contacted": 0.0013,
+      "share_prev_success": 0.0013,
+      "share_cellular": 0.5047,
+      "mean_age": 40.1951,
+      "share_retired_or_student": 0.0357,
+      "rate_ci_low": 0.0459,
+      "rate_ci_high": 0.0509
+    },
+    {
+      "year": 2009,
+      "contacts": 11440,
+      "subscribers": 2228,
+      "rate": 0.1948,
+      "mean_euribor": 1.232,
+      "mean_campaign": 2.1259,
+      "share_previously_contacted": 0.066,
+      "share_prev_success": 0.0603,
+      "share_cellular": 0.9177,
+      "mean_age": 39.2638,
+      "share_retired_or_student": 0.0982,
+      "rate_ci_low": 0.1876,
+      "rate_ci_high": 0.2021
+    },
+    {
+      "year": 2010,
+      "contacts": 2058,
+      "subscribers": 1073,
+      "rate": 0.5214,
+      "mean_euribor": 0.8131,
+      "mean_campaign": 1.9052,
+      "share_previously_contacted": 0.3523,
+      "share_prev_success": 0.3149,
+      "share_cellular": 0.8115,
+      "mean_age": 41.9495,
+      "share_retired_or_student": 0.2347,
+      "rate_ci_low": 0.4998,
+      "rate_ci_high": 0.5429
+    }
+  ],
+  "duration_zero_calls": 4,
+  "duration_zero_calls_subscribed": 0
+}

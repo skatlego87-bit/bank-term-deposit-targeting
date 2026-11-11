@@ -1,0 +1,17 @@
+model,R_over_c,policy,gain_vs_call_all,ci_low,ci_high
+LR | F2,10,model_raw,2185.0,1236.2,3141.5
+LR | F2,10,model_recal,5754.0,4983.4,6511.5
+LR | F2,20,model_raw,-14059.0,-15636.2,-12491.8
+LR | F2,20,model_recal,-2215.0,-3030.1,-1458.2
+HGB | F2,10,model_raw,3003.0,2132.5,3771.0
+HGB | F2,10,model_recal,5184.0,4433.2,5936.6
+HGB | F2,20,model_raw,-12986.0,-14451.9,-11472.5
+HGB | F2,20,model_recal,-2548.0,-3348.6,-1730.6
+LR | F3,10,model_raw,6020.0,5189.4,6682.7
+LR | F3,10,model_recal,6269.0,5568.8,6954.6
+LR | F3,20,model_raw,-3000.0,-3937.7,-2100.2
+LR | F3,20,model_recal,-3043.0,-3864.6,-2226.3
+HGB | F3,10,model_raw,1736.0,1168.8,2317.0
+HGB | F3,10,model_recal,6345.0,5629.8,6971.7
+HGB | F3,20,model_raw,-1924.0,-2400.2,-1554.0
+HGB | F3,20,model_recal,-2142.0,-2996.0,-1357.3
